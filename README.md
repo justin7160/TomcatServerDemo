@@ -9,6 +9,7 @@ Practice Building Tomcat Server in GET Method
 
 
 藉這個demo專案了解:
+
   0.  藉由ServerSocket開啟port讓外部訪問、
   1.  socket藉由多線程Executors.newCachedThreadPool()監聽處理request、
   2.  http請求的過程、
